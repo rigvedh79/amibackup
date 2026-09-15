@@ -164,9 +164,9 @@ To remove the AWS resources:
 
 ## Author
 
-**Nithishkumar K**
+**Rajiv Choudhary**
 
-Aspiring Cloud & DevOps Engineer
+AWS Solution Architect
 
-[LinkedIn](https://www.linkedin.com/in/nithishkumar-k-072726388)  
-[GitHub](https://github.com/NITHISHKUMAR-IT)
+[LinkedIn](https://www.linkedin.com/in/contact-rajivchoudhary/)  
+[GitHub](https://github.com/rigvedh79)
